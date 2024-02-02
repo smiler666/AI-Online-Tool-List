@@ -85,7 +85,10 @@
 - 🖍写作猫：https://xiezuocat.com/
 - 🖍火山写作：https://www.writingo.net/
 
-# 8.其它
+# 8.电话
+- [AICaller.io](https://aicaller.io/?ref=v) - AICaller 是一种简单易用的自动批量呼叫解决方案，它使用最新的生成式 AI 技术来为您触发电话并完成工作。 它可以执行诸如潜在客户资格认证、通过电话收集数据等操作。 它具有强大的 API、低成本定价和免费试用。
+
+# 9.其它
 
 - 📓匿名文件上传：https://ufile.io/
 - 📓临时教育邮箱：https://mail.mjj.edu.ge/?btwaf=87560988
