@@ -52,6 +52,7 @@
 - 📕PDF文档压缩：https://tools.pdf24.org/
 - 📕ChatExcel：https://chatexcel.com/convert
 - 📕PandaGPT（帮你阅读生成知识图谱）：https://www.pandagpt.io/
+- 📕Remio（本地 AI 个人知识库，解析文件/网页/录音/邮件/聊天记录并建立本地索引和向量，方便快速检索个人上下文）：https://remio.ai/
 
 # 5.搜索
 
